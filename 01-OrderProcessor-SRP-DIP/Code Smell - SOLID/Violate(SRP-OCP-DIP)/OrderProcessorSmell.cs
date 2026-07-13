@@ -1,14 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace Code_Smell___SOLID.Violate_SRP_OCP_DIP_
+﻿namespace Code_Smell___SOLID.Violate_SRP_OCP_DIP_
 {
     internal class OrderProcessorSmell
     {
         public void ProcessOrder(string orderType, string email)
         {
-            // 1. معالجة الطلب حسب نوعه
+            // 1. Process order based on its type
             if (orderType == "Digital")
             {
                 Console.WriteLine("Processing Digital Order... Generating Download Link.");
@@ -23,12 +19,11 @@ namespace Code_Smell___SOLID.Violate_SRP_OCP_DIP_
                 return;
             }
 
-            // 2. حفظ الطلب في قاعدة البيانات
+            // 2. Save order details to the database
             Console.WriteLine("Saving order details to SQL Database...");
 
-            // 3. إرسال إيميل للعميل
+            // 3. Send confirmation email to the customer
             Console.WriteLine($"Sending confirmation email to {email}...");
-
         }
     }
 }
