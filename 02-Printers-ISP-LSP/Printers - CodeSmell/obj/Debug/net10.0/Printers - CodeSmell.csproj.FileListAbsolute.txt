@@ -1,0 +1,14 @@
+C:\Users\MarkSameehFaseeh\source\repos\Printers - CodeSmellSolution\Printers - CodeSmell\bin\Debug\net10.0\Printers - CodeSmell.exe
+C:\Users\MarkSameehFaseeh\source\repos\Printers - CodeSmellSolution\Printers - CodeSmell\bin\Debug\net10.0\Printers - CodeSmell.deps.json
+C:\Users\MarkSameehFaseeh\source\repos\Printers - CodeSmellSolution\Printers - CodeSmell\bin\Debug\net10.0\Printers - CodeSmell.runtimeconfig.json
+C:\Users\MarkSameehFaseeh\source\repos\Printers - CodeSmellSolution\Printers - CodeSmell\bin\Debug\net10.0\Printers - CodeSmell.dll
+C:\Users\MarkSameehFaseeh\source\repos\Printers - CodeSmellSolution\Printers - CodeSmell\bin\Debug\net10.0\Printers - CodeSmell.pdb
+C:\Users\MarkSameehFaseeh\source\repos\Printers - CodeSmellSolution\Printers - CodeSmell\obj\Debug\net10.0\Printers - CodeSmell.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MarkSameehFaseeh\source\repos\Printers - CodeSmellSolution\Printers - CodeSmell\obj\Debug\net10.0\Printers - CodeSmell.AssemblyInfoInputs.cache
+C:\Users\MarkSameehFaseeh\source\repos\Printers - CodeSmellSolution\Printers - CodeSmell\obj\Debug\net10.0\Printers - CodeSmell.AssemblyInfo.cs
+C:\Users\MarkSameehFaseeh\source\repos\Printers - CodeSmellSolution\Printers - CodeSmell\obj\Debug\net10.0\Printers - CodeSmell.csproj.CoreCompileInputs.cache
+C:\Users\MarkSameehFaseeh\source\repos\Printers - CodeSmellSolution\Printers - CodeSmell\obj\Debug\net10.0\Printers - CodeSmell.dll
+C:\Users\MarkSameehFaseeh\source\repos\Printers - CodeSmellSolution\Printers - CodeSmell\obj\Debug\net10.0\refint\Printers - CodeSmell.dll
+C:\Users\MarkSameehFaseeh\source\repos\Printers - CodeSmellSolution\Printers - CodeSmell\obj\Debug\net10.0\Printers - CodeSmell.pdb
+C:\Users\MarkSameehFaseeh\source\repos\Printers - CodeSmellSolution\Printers - CodeSmell\obj\Debug\net10.0\Printers - CodeSmell.genruntimeconfig.cache
+C:\Users\MarkSameehFaseeh\source\repos\Printers - CodeSmellSolution\Printers - CodeSmell\obj\Debug\net10.0\ref\Printers - CodeSmell.dll
