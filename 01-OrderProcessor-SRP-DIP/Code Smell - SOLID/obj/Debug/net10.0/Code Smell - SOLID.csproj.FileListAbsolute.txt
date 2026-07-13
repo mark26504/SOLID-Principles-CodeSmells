@@ -1,0 +1,14 @@
+C:\Users\MarkSameehFaseeh\source\repos\CodeSmell-SOLIDSolution\Code Smell - SOLID\bin\Debug\net10.0\Code Smell - SOLID.exe
+C:\Users\MarkSameehFaseeh\source\repos\CodeSmell-SOLIDSolution\Code Smell - SOLID\bin\Debug\net10.0\Code Smell - SOLID.deps.json
+C:\Users\MarkSameehFaseeh\source\repos\CodeSmell-SOLIDSolution\Code Smell - SOLID\bin\Debug\net10.0\Code Smell - SOLID.runtimeconfig.json
+C:\Users\MarkSameehFaseeh\source\repos\CodeSmell-SOLIDSolution\Code Smell - SOLID\bin\Debug\net10.0\Code Smell - SOLID.dll
+C:\Users\MarkSameehFaseeh\source\repos\CodeSmell-SOLIDSolution\Code Smell - SOLID\bin\Debug\net10.0\Code Smell - SOLID.pdb
+C:\Users\MarkSameehFaseeh\source\repos\CodeSmell-SOLIDSolution\Code Smell - SOLID\obj\Debug\net10.0\Code Smell - SOLID.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MarkSameehFaseeh\source\repos\CodeSmell-SOLIDSolution\Code Smell - SOLID\obj\Debug\net10.0\Code Smell - SOLID.AssemblyInfoInputs.cache
+C:\Users\MarkSameehFaseeh\source\repos\CodeSmell-SOLIDSolution\Code Smell - SOLID\obj\Debug\net10.0\Code Smell - SOLID.AssemblyInfo.cs
+C:\Users\MarkSameehFaseeh\source\repos\CodeSmell-SOLIDSolution\Code Smell - SOLID\obj\Debug\net10.0\Code Smell - SOLID.csproj.CoreCompileInputs.cache
+C:\Users\MarkSameehFaseeh\source\repos\CodeSmell-SOLIDSolution\Code Smell - SOLID\obj\Debug\net10.0\Code Smell - SOLID.dll
+C:\Users\MarkSameehFaseeh\source\repos\CodeSmell-SOLIDSolution\Code Smell - SOLID\obj\Debug\net10.0\refint\Code Smell - SOLID.dll
+C:\Users\MarkSameehFaseeh\source\repos\CodeSmell-SOLIDSolution\Code Smell - SOLID\obj\Debug\net10.0\Code Smell - SOLID.pdb
+C:\Users\MarkSameehFaseeh\source\repos\CodeSmell-SOLIDSolution\Code Smell - SOLID\obj\Debug\net10.0\Code Smell - SOLID.genruntimeconfig.cache
+C:\Users\MarkSameehFaseeh\source\repos\CodeSmell-SOLIDSolution\Code Smell - SOLID\obj\Debug\net10.0\ref\Code Smell - SOLID.dll
